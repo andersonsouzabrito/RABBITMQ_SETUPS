@@ -1,1 +1,1 @@
-Apl de Envio de Mensagens de forma Assincrona.
+API de Envio de Mensagens de forma Assincrona.
